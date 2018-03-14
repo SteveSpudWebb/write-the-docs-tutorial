@@ -52,7 +52,7 @@ Similar to https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/com.ibm.apic
 * Properties (explanation of each field)
 * Example result
 
-```ruby
+```
 test a code block with highlighting
 puts "this is code"
 ```
