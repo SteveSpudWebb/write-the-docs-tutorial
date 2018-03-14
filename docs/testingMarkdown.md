@@ -52,5 +52,10 @@ Similar to https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/com.ibm.apic
 * Properties (explanation of each field)
 * Example result
 
+```
+test a code block
+put "this is code"
+```
+
 Back to [table-of-contents](https://github.com/SteveSpudWebb/write-the-docs-tutorial/blob/master/docs/table-of-contents.md)
 
