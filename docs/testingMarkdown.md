@@ -53,8 +53,8 @@ Similar to https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/com.ibm.apic
 * Example result
 
 ```ruby
-test a code block with highlighting for ruby
-put "this is code"
+test a code block with highlighting
+puts "this is code"
 ```
 
 Back to [table-of-contents](https://github.com/SteveSpudWebb/write-the-docs-tutorial/blob/master/docs/table-of-contents.md)
