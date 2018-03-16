@@ -19,7 +19,7 @@ puts "this is code"
 ```
 ### Image
 
-![Nice](/TestImageIBMMaersk.png)
+![Nice](docs/TestImageIBMMaersk.png)
 
 Back to [table-of-contents](https://github.com/SteveSpudWebb/write-the-docs-tutorial/blob/master/docs/table-of-contents.md)
 
