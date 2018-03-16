@@ -17,6 +17,9 @@ Similar to https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/com.ibm.apic
 test a code block with highlighting
 puts "this is code"
 ```
+### Image
+
+![Nice](/images/TestImageIBMMaersk.png)
 
 Back to [table-of-contents](https://github.com/SteveSpudWebb/write-the-docs-tutorial/blob/master/docs/table-of-contents.md)
 
