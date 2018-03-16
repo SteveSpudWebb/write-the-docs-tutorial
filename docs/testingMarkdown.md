@@ -4,7 +4,7 @@ You can integrate your systems
 
 
 ### Another option is to organize with headings like the following:
-Similar to https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/com.ibm.apic.apionprem.doc/query_3.html
+Similar to url here
 
 * Name
 * Description
@@ -19,7 +19,7 @@ puts "this is code"
 ```
 ### Image
 
-![Nice](/docs/TestImageIBMMaersk.png)
+
 
 Back to [table-of-contents](https://github.com/SteveSpudWebb/write-the-docs-tutorial/blob/master/docs/table-of-contents.md)
 
